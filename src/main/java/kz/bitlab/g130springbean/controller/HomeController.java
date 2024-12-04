@@ -1,13 +1,13 @@
 package kz.bitlab.g130springbean.controller;
 
-import javafx.application.Application;
+
 import kz.bitlab.g130springbean.db.DBManager;
 import kz.bitlab.g130springbean.db.DBManager2;
 import kz.bitlab.g130springbean.db.DBManager3;
 import kz.bitlab.g130springbean.db.DBManager4;
 import lombok.AllArgsConstructor;
 import lombok.RequiredArgsConstructor;
-import org.apache.catalina.core.ApplicationContext;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
